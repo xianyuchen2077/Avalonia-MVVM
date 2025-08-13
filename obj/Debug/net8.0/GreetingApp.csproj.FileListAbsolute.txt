@@ -199,8 +199,6 @@ C:\Users\xiany\Desktop\行而上学\笃实暑培\hw\hw5(unfinished)\GreetingApp\
 C:\Users\xiany\Desktop\行而上学\笃实暑培\hw\hw5(unfinished)\GreetingApp\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
 C:\Users\xiany\Desktop\行而上学\笃实暑培\hw\hw5(unfinished)\GreetingApp\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
 C:\Users\xiany\Desktop\行而上学\笃实暑培\hw\hw5(unfinished)\GreetingApp\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
-C:\Users\xiany\Desktop\行而上学\笃实暑培\hw\hw5(unfinished)\GreetingApp\obj\Debug\net8.0\GreetingApp.csproj.Fody.CopyLocal.cache
-C:\Users\xiany\Desktop\行而上学\笃实暑培\hw\hw5(unfinished)\GreetingApp\obj\Debug\net8.0\GreetingApp.csproj.Fody.RuntimeCopyLocal.cache
 C:\Users\xiany\Desktop\行而上学\笃实暑培\hw\hw5(unfinished)\GreetingApp\obj\Debug\net8.0\Avalonia\references
 C:\Users\xiany\Desktop\行而上学\笃实暑培\hw\hw5(unfinished)\GreetingApp\obj\Debug\net8.0\Avalonia\original.dll
 C:\Users\xiany\Desktop\行而上学\笃实暑培\hw\hw5(unfinished)\GreetingApp\obj\Debug\net8.0\Avalonia\original.pdb
@@ -208,3 +206,6 @@ C:\Users\xiany\Desktop\行而上学\笃实暑培\hw\hw5(unfinished)\GreetingApp\
 C:\Users\xiany\Desktop\行而上学\笃实暑培\hw\hw5(unfinished)\GreetingApp\obj\Debug\net8.0\Greeting.5999AB97.Up2Date
 C:\Users\xiany\Desktop\行而上学\笃实暑培\hw\hw5(unfinished)\GreetingApp\obj\Debug\net8.0\GreetingApp.genruntimeconfig.cache
 C:\Users\xiany\Desktop\行而上学\笃实暑培\hw\hw5(unfinished)\GreetingApp\obj\Debug\net8.0\ref\GreetingApp.dll
+C:\Users\xiany\Desktop\行而上学\笃实暑培\hw\hw5(unfinished)\GreetingApp\obj\Debug\net8.0\GreetingApp.sourcelink.json
+C:\Users\xiany\Desktop\行而上学\笃实暑培\hw\hw5(unfinished)\GreetingApp\obj\Debug\net8.0\GreetingApp.csproj.Fody.CopyLocal.cache
+C:\Users\xiany\Desktop\行而上学\笃实暑培\hw\hw5(unfinished)\GreetingApp\obj\Debug\net8.0\GreetingApp.csproj.Fody.RuntimeCopyLocal.cache
